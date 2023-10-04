@@ -1,0 +1,198 @@
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.exe
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.deps.json
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.json
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.dev.json
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.AssemblyReference.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\App.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement_MarkupCompile.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement_MarkupCompile.lref
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.g.resources
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfoInputs.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfo.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CoreCompileInputs.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\refint\HotelManagement.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.genruntimeconfig.cache
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\ref\HotelManagement.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\MakeReservationView.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\MakeReservationView.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\ReservationLisitingView.g.cs
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\App.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\ReservationLisitingView.baml
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Humanizer.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Scoala\SCOALA\FACULTATE\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CopyComplete
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.exe
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.deps.json
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.json
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.dev.json
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.pdb
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Humanizer.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.AssemblyReference.cache
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\MakeReservationView.g.cs
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\ReservationLisitingView.g.cs
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\App.g.cs
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement_MarkupCompile.cache
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement_MarkupCompile.lref
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\App.baml
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\MainWindow.baml
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\MakeReservationView.baml
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\ReservationLisitingView.baml
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.g.resources
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfoInputs.cache
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfo.cs
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CoreCompileInputs.cache
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CopyComplete
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\refint\HotelManagement.dll
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.pdb
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.genruntimeconfig.cache
+G:\Stefan\SCOALA\Facultate\Anul II\Semestrul II\MVP\Laborator\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\ref\HotelManagement.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.exe
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.deps.json
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.json
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.dev.json
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.pdb
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\MakeReservationView.g.cs
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\ReservationLisitingView.g.cs
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement_MarkupCompile.cache
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement_MarkupCompile.lref
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\MakeReservationView.baml
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\Views\ReservationLisitingView.baml
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.g.resources
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfo.cs
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CopyComplete
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\refint\HotelManagement.dll
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.pdb
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.genruntimeconfig.cache
+C:\Users\stefa\Desktop\Projects\HotelManagement\HotelManagement\obj\Debug\net5.0-windows\ref\HotelManagement.dll
